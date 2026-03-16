@@ -1,3 +1,12 @@
+## 🇷🇺 Обзор (Telegram Bot Assistant)
+
+**Telegram Bot Assistant** — AI‑ассистент в Telegram с поддержкой нескольких LLM‑провайдеров.
+
+- **Задача:** дать пользователям простой интерфейс “написал сообщение → получил умный ответ/действие”.
+- **Решение:** бот принимает сообщения, маршрутизирует их в выбранный LLM‑бэкенд и возвращает ответ, который можно адаптировать под сценарий.
+- **Пример использования:** ассистент поддержки, внутренний помощник для команды или интерфейс к RAG‑системе.
+
+---
 # Telegram Bot Assistant — LLM Powered AI Assistant
 
 Production-ready Telegram AI assistant with support for multiple LLM providers (OpenAI, LangChain, GigaChat).
